@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iOA8x8Ylcv6O/0tjdxljz0TNazvVi0Itgjh64nwDNtYKushSor3Pr3BZo5fnnJLqtF08rw1SXbPZ8zyilY/AqQ==",
+  "dgSpecHash": "5rS9AGTXK0l/XC0B0mb7w+JD4PK+cc/O5hKK+AGx2K8iMasC6GFLfeO2IfkMaWxuTAqryal4QYr5uPLwCd1EpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jinseopark\\Desktop\\Projects\\ASPNET\\CityInfo.API\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jinseopark\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\jinseopark\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jinseopark\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jinseopark\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.3\\microsoft.aspnetcore.jsonpatch.6.0.3.nupkg.sha512",
     "C:\\Users\\jinseopark\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.3\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.3.nupkg.sha512",
